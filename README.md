@@ -21,3 +21,12 @@ This repository includes basic ABAP projects I created during my ABAP Cloud Deve
 ---
 
 More examples will be added.
+
+### 4. Z_CDS_PRODUCT_LIST
+- CDS View for listing active products.
+- With annotations and filtering.
+
+### 5. Z_ODATA_INVOICE
+- Basic OData service simulating invoice data.
+- Implements GET_ENTITYSET.
+
